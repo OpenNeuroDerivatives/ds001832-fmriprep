@@ -1,0 +1,1 @@
+efc2d055-a7cb-42e7-8d47-062d76d82643 autoenable=true bucket=openneuro-derivatives datacenter=US encryption=none exporttree=yes fileprefix=fmriprep/ds001832-fmriprep/ host=s3.amazonaws.com name=openneuro-derivatives partsize=1GiB port=80 public=yes publicurl=https://openneuro-derivatives.s3.amazonaws.com storageclass=STANDARD type=S3 versioning=yes timestamp=1663023663.582321s
